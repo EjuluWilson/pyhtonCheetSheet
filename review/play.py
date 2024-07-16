@@ -1,1 +1,3 @@
-print("I love python")
+#input
+val = input("Enter your value: ")
+print(val)
